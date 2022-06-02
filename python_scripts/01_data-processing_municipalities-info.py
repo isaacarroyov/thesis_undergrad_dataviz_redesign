@@ -39,4 +39,5 @@ df_municipios[['freq','affected_area','cluster']] = df_municipios[['freq','affec
 df_municipios["cluster"] = df_municipios["cluster"].astype(int)
 df_municipios = df_municipios.rename(columns={"CVE_MUN":"code","NOMGEO":"name"})
 
-df_geom_municipios.to_file("./../data/clean-data_01_municipalities-info.geojson", driver='GeoJSON')
+df_municipios.to_file("./../data/clean-data_01_municipalities-info.geojson", driver='GeoJSON')
+print("Done")
