@@ -14,25 +14,15 @@ created for my undergrad thesis**. Some of the new designs are going to showcase
 data, and other perhaps are going to explore my creativity and desire to _play_ with shapes, colours and 
 concepts; therefore, any constructive feedback will be receive.
 
-
 ## Gallery
 ### Counties/Municipalities info: Frequency and affected area caused by wildfires during 2017
-**Data source**: ...  
 [**Data processing code**](https://github.com/isaacarroyov/thesis_undergrad_dataviz_redesign/blob/main/python_scripts/01_data-processing_municipalities-info.py)  
-[**Data visualization code**]()
+[**Data visualization code**](https://github.com/isaacarroyov/thesis_undergrad_dataviz_redesign/blob/main/r_scripts/01_data-visualization_municipalities-info.R)
 
-...
+![](./images/Comparison_DataViz-Thesis-01.png)
 
 ### Time series: Record of heat points in the state, from 2001 to 2020
-**Data source**: ...  
 [**Data processing code**](https://github.com/isaacarroyov/thesis_undergrad_dataviz_redesign/blob/main/python_scripts/02_data-processing_time-series-heatpoints.py)  
-[**Data visualization code**]()
+**Data visualization made with RAWGraphs and Illustrator**
 
-...
-
-### Environmental variables + PCA
-**Data sources**: ...    
-[**Data processing code**]()  
-[**Data visualization code**]()
-
-...
+![](./images/Comparison_DataViz-Thesis-02.png)
