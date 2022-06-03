@@ -10,8 +10,8 @@ The thesis project was focused on gathering, cleaning, exploring and visualizing
 specialized databases and satellite imagery 🛰️ :earth_americas:
 
 With this repository, **I aim to redesign some (not all) of my favourite and relevant data visualizations I 
-created for my undergrad thesis**. Some of the new designs will to showcase a different picture of the 
-data, and others perhaps are will explore my creativity and desire to _play_ with shapes, colours and 
+created for my undergrad thesis**. Some of the new designs will showcase a different picture of the 
+data, and others perhaps will explore my creativity and desire to _play_ with shapes, colours and 
 concepts. Therefore, no matter the case, I will receive feedback.
 
 ## Gallery
