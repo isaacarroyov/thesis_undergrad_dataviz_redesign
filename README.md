@@ -1,4 +1,4 @@
-# A glimpse of my undergraduate thesis project – Data Visualization
+# Redesigning Data Visualizations: A glimpse of my undergraduate thesis project.
 
 ## Introduction
 
@@ -10,9 +10,9 @@ The thesis project was focused on gathering, cleaning, exploring and visualizing
 specialized databases and satellite imagery 🛰️ :earth_americas:
 
 With this repository, **I aim to redesign some (not all) of my favourite and relevant data visualizations I 
-created for my undergrad thesis**. Some of the new designs are going to showcase a better picture of the 
-data, and other perhaps are going to explore my creativity and desire to _play_ with shapes, colours and 
-concepts; therefore, any constructive feedback will be receive.
+created for my undergrad thesis**. Some of the new designs will to showcase a different picture of the 
+data, and others perhaps are will explore my creativity and desire to _play_ with shapes, colours and 
+concepts. Therefore, no matter the case, I will receive feedback.
 
 ## Gallery
 ### Counties/Municipalities info: Frequency and affected area caused by wildfires during 2017
