@@ -69,7 +69,7 @@ p1 <- df %>% filter(cluster != 0) %>%
   coord_cartesian(clip = "off") +
   labs(
     title='Municipalities affected by wildfires during 2017<br>',
-    subtitle = "The visualization showcases the relationship between the <b>number of wildfires</b> (_x-axis_) and <b>affected area</b> (in **hectares** or **ha**) caused by them (_y-axis_). Besides, the data is grouped in three different clusters*.",
+    subtitle = "The visualization showcases the relationship between the <b>number of wildfires</b> (_x-axis_) and <b>the affected area</b> (in **hectares** or **ha**) caused by them (_y-axis_). Besides, the data is grouped in three different clusters*.",
     caption = "*<span style='color:#DF9901'><b>Group 2</b></span> has the municipalities with the largest affected areas. The municipalities of <span style='color:#EA701F'><b>Group 1</b></span> and <span style='color:#44A7C5'><b>Group 3</b></span> have lower affected areas, but they differ in the number of records of wildfires.<br><b>Source:</b> Comisión Nacional Forestal (CONAFOR), 2017.<br><b>Visualization by Isaac Arroyo (@unisaacarroyov on Twitter and Behance)</b>",
     #caption = "<b>Source:</b> Comisión Nacional Forestal (CONAFOR), 2017.<br><b>Visualization by Isaac Arroyo (@unisaacarroyov on Twitter and Behance)</b>"
     ) + theme(plot.subtitle = element_textbox_simple(margin = margin(-20,0,20,0)))
