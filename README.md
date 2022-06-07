@@ -14,6 +14,8 @@ created for my undergrad thesis**. Some of the new designs will showcase a diffe
 data, and others perhaps will explore my creativity and desire to _play_ with shapes, colours and
 concepts. Therefore, no matter the case, I will receive feedback.
 
+See the whole project in my portfolio ["Redesigning Data Visualizations: Undergrad Thesis"](https://unisaacarroyov.myportfolio.com/redesigning-data-visualizations-undergrad-thesis)
+
 ## Gallery
 ### Counties/Municipalities info: Frequency and affected area caused by wildfires during 2017
 [**Data processing code**](https://github.com/isaacarroyov/thesis_undergrad_dataviz_redesign/blob/main/python_scripts/01_data-processing_municipalities-info.py)  
