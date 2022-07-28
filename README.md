@@ -28,3 +28,8 @@ See the whole project in my portfolio ["Redesigning Data Visualizations: Undergr
 **Data visualization made with RAWGraphs and Illustrator**
 
 ![](./images/Comparison_DataViz-Thesis-02.jpg)
+
+### Density plot: 
+[**Data processing adn visualization code _(#TidyTuesday repository)_**](https://github.com/isaacarroyov/tidy_tuesday_R/blob/main/gallery_2022/2022_week-30_byod.R)
+
+![](./images/Comparison_DataViz-Thesis-03.png)
