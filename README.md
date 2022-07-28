@@ -29,7 +29,7 @@ See the whole project in my portfolio ["Redesigning Data Visualizations: Undergr
 
 ![](./images/Comparison_DataViz-Thesis-02.jpg)
 
-### Density plot: 
+### Density plot: Record of heat points in the state, from 2001 to 2020
 [**Data processing adn visualization code _(#TidyTuesday repository)_**](https://github.com/isaacarroyov/tidy_tuesday_R/blob/main/gallery_2022/2022_week-30_byod.R)
 
 ![](./images/Comparison_DataViz-Thesis-03.png)
